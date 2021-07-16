@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.google{
+    width: 600px;
+    margin: 100px auto;
+
+}
+.google p{
+    text-align: center;
+}
+.google-src-pic{
+    width: 600px;
+    
+}
+.google-src-pic img{
+    width: 300px;
+    display: table;
+    margin: 21px auto;
+}
+.google-input{
+    height: 50px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    display: block;
+    margin: auto;
+    
+    
+}
+.google-input:hover{
+    background-color: #fff;
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+    border-color: rgba(223,225,229,0);
+}
+.google-input input{
+    width: 500px;
+    padding: 10px;
+    border: none;
+    background-color: transparent ;
+    margin-top: 8px;
+    
+    
+}
+.google-input img:nth-child(1){
+    height: 20px;
+    width: 20px;
+    display: table;
+    margin-top: 10px;
+    float: left;
+    margin: 15px 7px 5px 8px;
+    
+}
+.google-input img:nth-child(3){ 
+    height: 25px;
+    width: 25px;
+    display: table;
+    float: right;
+    margin: 12px 5px 5px 7px;
+    
+}
+.google-button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.button1 button{
+    width:150px;
+    height: 50px;
+    font-size: 14px;
+    color:#3c4043;
+    padding:0px 16px;
+    float: left;
+    margin-left: 136px;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    background:#f8f9fa;
+}
+.button1 button:hover{
+  
+  box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+  border:  1px solid #dadce0;
+}
+.button2 button{
+    width:150px;
+    height: 50px;
+    font-size: 14px;
+    color:#3c4043;
+    padding:0px 16px;
+    
+    margin-left:20px;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    background:#f8f9fa;
+}
+.button2 button:hover{
+  
+  box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+  border:  1px solid #dadce0;
+}
+.google p{
+    margin: auto;
+    cursor: pointer;
+    font-size: 14px;
+    
+}
+.google p a{
+   color: blue;
+   text-decoration: none;
+    
+}
+.google p a:hover{
+    text-decoration: underline;
+}
+
